@@ -36,14 +36,14 @@
 - ./paddle1.6/SE_ResNet50_vd
 - ./paddle1.6/shuffleNetV2_swish
 - ./paddle1.6/Res2Net50_26w_4s
-- ./paddle1.6/HRNet_W32_C
+- ./paddle1.6/HRNet_W32_C（已上传）
 - ./paddle1.6/ResNeXt101_vd_32x4d
 - ./paddle1.6/SEnet154_vd
 - ./paddle1.6/shuffleV2_x2_0
 - ./paddle1.6/DenseNet264
-- ./paddle1.6/HRNet_W64_C
-- ./paddle1.6/DARTS_4M(已上传)
-- ./paddle1.6/DARTS_6M（已上传）
+- ./paddle1.6/HRNet_W64_C(已上传)
+- ./paddle1.6/DARTS_4M
+- ./paddle1.6/DARTS_6M
 
 #### 以模拟黑盒模型最大程度图片为基础，添加训练的灰盒模型，部分参数配置：step=1.5/256, eps=128/256, t=0, iteration=8,使用T-PGD算法 
 
