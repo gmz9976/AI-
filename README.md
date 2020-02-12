@@ -1,3 +1,5 @@
+### 比赛地址：https://aistudio.baidu.com/aistudio/competition/detail/15
+
 ### 项目地址：https://aistudio.baidu.com/aistudio/projectdetail/247996
 
 ### WP地址：https://mzgao.blog.csdn.net/article/details/104066620
