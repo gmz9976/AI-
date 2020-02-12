@@ -42,15 +42,15 @@
 - ./paddle1.6/shuffleV2_x2_0
 - ./paddle1.6/DenseNet264
 - ./paddle1.6/HRNet_W64_C
-- ./paddle1.6/DARTS_4M
-- ./paddle1.6/DARTS_6M
+- ./paddle1.6/DARTS_4M(已上传)
+- ./paddle1.6/DARTS_6M（已上传）
 
 #### 以模拟黑盒模型最大程度图片为基础，添加训练的灰盒模型，部分参数配置：step=1.5/256, eps=128/256, t=0, iteration=8,使用T-PGD算法 
 
 为了最大程度模拟灰盒模型，训练以下模型
 
-- ./paddle1.5/ResNeXt50_32x4dxx
-- ./paddle1.5/ResNeXt50_32x4dxxx
+- ./paddle1.5/ResNeXt50_32x4dxx（已上传）
+- ./paddle1.5/ResNeXt50_32x4dxxx（已上传）
 - ./paddle1.5/ResNeXt50_32x4dxxxx
 - ./paddle1.5/ResNeXt50_32x4dxxxxx
 - ./paddle1.5/ResNeXt50_32x4dxxxxxx
